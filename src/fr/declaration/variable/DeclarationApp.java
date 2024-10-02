@@ -1,7 +1,7 @@
 package fr.declaration.variable;
 
 public class DeclarationApp {
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
         byte a = 12;
         short b = 15324;
         int c = -153596;
